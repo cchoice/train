@@ -1,0 +1,18 @@
+h1 {
+	/*color: #F70201;*/
+	text-shadow: 3px 3px purple;
+	font-weight: bold;
+}
+
+h4,h5 {
+	text-shadow: 1px 1px purple;
+}
+
+img {
+	border: 3px solid white;
+}
+
+.btn.btn-primary {
+	text-shadow: .25px .25px purple;
+	border: 1.25px solid purple;
+}
